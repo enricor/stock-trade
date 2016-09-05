@@ -1,0 +1,2 @@
+# stock-trade
+Technical exercise
